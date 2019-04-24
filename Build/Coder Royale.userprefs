@@ -1,0 +1,34 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RoomSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\RoomTemplates.cs" Line="23" Column="53" />
+      <File FileName="..\Space Shooter\Assets\Scripts\WeaponController.cs" Line="1" Column="1" />
+      <File FileName="..\Space Shooter\Assets\Scripts\DestroyByContact.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="47" Column="43" />
+      <File FileName="Assets\Scripts\Main\Tutorial.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main\Mercenary.cs" Line="1" Column="1" />
+      <File FileName="..\2D RogueLike\Assets\Scripts\BoardManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main\Remy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main\Pyon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main\EnemyBullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main\Bullet.cs" Line="1" Column="1" />
+      <File FileName="..\The Pixelated Adventure\Assets\Scripts\BattleGameController.cs" Line="1" Column="1" />
+      <File FileName="..\The Pixelated Adventure\Assets\Scripts\StatusScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Main\Room.cs" Line="73" Column="44" />
+      <File FileName="Assets\Scripts\Start\TitleManager.cs" Line="19" Column="33" />
+      <File FileName="Assets\Scripts\Main\ClosedBridge.cs" Line="11" Column="21" />
+      <File FileName="Assets\Scripts\Main\Player.cs" Line="58" Column="4" />
+      <File FileName="Assets\Scripts\Main\Life.cs" Line="14" Column="77" />
+      <File FileName="Assets\Scripts\Main\Energy.cs" Line="14" Column="80" />
+      <File FileName="Assets\Scripts\Main\ItemBox.cs" Line="7" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

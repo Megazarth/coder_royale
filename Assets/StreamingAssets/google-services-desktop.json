@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "493913440585",
+    "firebase_url": "https://coderroyale.firebaseio.com",
+    "project_id": "coderroyale",
+    "storage_bucket": "coderroyale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493913440585:android:2c6d5c129906d64f",
+        "android_client_info": {
+          "package_name": "com.yafetsutanto.coderroyale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493913440585-99jp9ks2pr62a5e1fomo89vofij4h035.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPCz3b-f_jyJ3w7F8o05bQghuDgOMLQtQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
